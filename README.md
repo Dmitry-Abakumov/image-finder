@@ -1,4 +1,4 @@
-Hello. It`s an React application - "Image-finder"
+Hello. It`s a React application - "Image-finder"
 
 With it, you can search for images and view them in larger size.
 
